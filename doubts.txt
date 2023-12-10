@@ -1,0 +1,19 @@
+	
+	1. Categorical predictor & quantitative response then which algorithm?
+	2. Categorical predictor & Categorical response then which algorithm?
+	3. Is error rate for K Nearest Neighbors defined in same way as Baye's classifier? 
+	4. Shark attacks and ice cream sale example - temperature is the latent variable. 
+            How to find out existence of latent variable when it is some unknown problem.
+	5. What is the difference in confidence interval and prediction interval? 
+	6. How to know which interacting terms should be added in multiple linear regression when there are many predictors?(Trial and error can't be the method right?) 
+	7. Problematic amount of collinearity exists between the predictor if VIF > 5 or VIF >10 . I didn’t understand this statement. 
+	8. How to decide if we have to take transformation or consider interaction effect?  6 & 8 : is there any algorithm? 
+	9. As non parametric methods do not assume any functional form does it imply that they do not have any loss function optimization problem inside them? Example : KNN
+	10. How to know for which values of K , we are not overfitting in KNN ? (Ex: K = 1 is definitely an overfit) 
+	11. ESL : Cross Validation  :  ? 
+	12. N/k is defined as degrees of freedom for KNN. Why is it so and what is it's interpretation? 
+	13. How to read ESL faster?
+	14. How to avoid confusion in R and Python? I found Python is not very similar to R.
+	15. ISLR Chapter 3 : Q10 : (b) , ( c ) .How to interpret the  coefficients ? 
+	 Why is R^2 value very less? 
+	16. Is question ISLR Chapter 3 : Q9 correct? 
